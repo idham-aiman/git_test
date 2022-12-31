@@ -1,3 +1,4 @@
 # git_test
-first GIthub repo
+first Github repo
+.
 Hello Odin!
